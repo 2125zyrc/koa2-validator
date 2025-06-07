@@ -1,6 +1,6 @@
 {
   "name": "koa2-validator",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "koa2 validator",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,17 @@
   },
   "keywords": [
     "koa2",
-    "validator"
+    "validator",
+    "validation",
+    "middleware",
+    "koa"
   ],
-  "author": "zyrc",
+  "author": "samsun",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2125zyrc/koa2-validator.git"
+  },
   "dependencies": {
     "lodash": "^4.17.15",
     "validator": "^12.2.0"
